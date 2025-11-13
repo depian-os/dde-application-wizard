@@ -17,7 +17,8 @@ Build-Depends:
  libpackagekitqt6-dev,
  qcoro-qt6-dev,
 # v-- to get systemduserunitdir from its pkg-config data
- systemd
+ systemd,
+ systemd-dev
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
 

@@ -1,3 +1,9 @@
+dde-application-wizard (0.1.21-0depian1) unstable; urgency=medium
+
+  * 修复构建依赖
+
+ -- lhdjply <lhdjply@126.com>  Thu, 25 Sep 2025 17:40:47 +0800
+
 dde-application-wizard (0.1.21) unstable; urgency=medium
 
   * fix: add translations
